@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "깃헙연동확인", "깃헙연동확인\깃헙연동확인.vcxproj", "{CA67240F-0972-487B-896D-8A5DEEFED5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Debug|x64.ActiveCfg = Debug|x64
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Debug|x64.Build.0 = Debug|x64
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Debug|x86.Build.0 = Debug|Win32
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Release|x64.ActiveCfg = Release|x64
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Release|x64.Build.0 = Release|x64
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Release|x86.ActiveCfg = Release|Win32
+		{CA67240F-0972-487B-896D-8A5DEEFED5F7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596AD96F-4522-4A78-828D-CE2F91165F38}
+	EndGlobalSection
+EndGlobal
